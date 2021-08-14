@@ -1,3 +1,5 @@
+> Created by [Bartolomeu Rodrigues](https://bartolomeu-rodrigues.com/)
+
 ## Setting up a new project
 
 - Clone this repository and rename the newly created directory with the name of your project
